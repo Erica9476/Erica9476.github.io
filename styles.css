@@ -6,12 +6,14 @@ body {
 }
 
 a {
-  text-decoration: none;
-  color: #3498db;
-  font-weight: bold;
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    display: inline-block;
+    text-align: center;
 }
 
-h1, h2, h3, p, ul div, a {
+h1, h2, h3, p, ul {
   max-width: 600px;
   margin-left: auto;
   margin-right: auto;
@@ -35,9 +37,5 @@ p {
     text-align: center;
 }
 
-a {
-    display: inline-block;
-    text-align: center;
-    margin-top: 15px;
-}
+
 
