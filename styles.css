@@ -27,3 +27,17 @@ p {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+.project-box {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+a {
+    display: inline-block;
+    text-align: center;
+    margin-top: 15px;
+}
+
