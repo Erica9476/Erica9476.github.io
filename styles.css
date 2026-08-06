@@ -1,0 +1,28 @@
+body {
+  background-color: #f4f7f6;
+  font-family: Arial, sans-serif;
+  color: #333333;
+}
+
+a {
+  text-decoration: none;
+  color: #3498db;
+  font-weight: bold;
+}
+
+h1, h2, h3, p, ul {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  margin-top: 40px;
+  color: #2c3e50;
+}
+
+p {
+  line-height: 1.6;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
